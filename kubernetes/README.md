@@ -45,8 +45,8 @@ Update the file `airflow-values.yaml` attributes; repo, branch and subPath of yo
     # ssh examples ssh://git@github.com/apache/airflow.git
     # git@github.com:apache/airflow.git
     # https example: https://github.com/apache/airflow.git
-    repo: https://github.com/eiffela65/Airflow-Templates
-    branch: main
+    repo: https://github.com/javiercvallejo1/pass_it_on_2022.git
+    branch: airflow
     rev: HEAD
     depth: 1
     # the number of consecutive failures allowed before aborting
