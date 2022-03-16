@@ -1,6 +1,9 @@
 # pass_it_on_2022
-This project describes a simple implementation of airflow on kubernetes, additionaly, provides a study case example using this architecture
+This project describes a simple implementation of airflow on kubernetes, additionaly, provides a study case example using this architecture.
 
+the repo has 2 branches: devops and airflow
+    devops contains all necesary definitions to create infrastructure
+    airflow contains some sample dags to test deployment
 
 # terraform-gcp-gke-airflow
 
